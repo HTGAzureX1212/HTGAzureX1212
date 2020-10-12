@@ -15,7 +15,6 @@ I am Harry </h3>
 </p>
 
 #### What I Know...?
-#### My Stacks:
 ![badge-c](https://img.shields.io/badge/Language-C-indigo?style=for-the-badge&logo=C)
 ![badge-cpp](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=C%2B%2B)
 ![badge-c#](https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=C-Sharp)
