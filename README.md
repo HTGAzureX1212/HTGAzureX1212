@@ -1,7 +1,7 @@
 <h3> Hi there <br><br>
 I am Harry </h3>
 
-#### What I do:
+#### What I Do:
 - Program Applications
 - Study Computers
 
@@ -13,3 +13,12 @@ I am Harry </h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTG-YT&layout=compact" alt="Most Used Language" >
   </a>
 </p>
+
+#### What I Know...?
+#### My Stacks:
+![badge-c](https://img.shields.io/badge/Language-C-indigo?style=for-the-badge&logo=C)
+![badge-cpp](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=C%2B%2B)
+![badge-c#](https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=C-Sharp)
+![badge-js](https://img.shields.io/badge/Language-Javascript-yellow?style=for-the-badge&logo=javascript)
+![badge-python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python)
+![badge-rust](https://img.shields.io/badge/Language-Rust-gold?style=for-the-badge&logo=Rust)
