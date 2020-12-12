@@ -10,7 +10,7 @@ I am Harry </h3>
     <img src="https://github-readme-stats.vercel.app/api?username=HTG-YT&&show_icons=true&count_private=true" alt="HTG-YT's Stats" >
   </a>
   <a target="_blank" href="https://github.com/HTG-YT/HTG-YT" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTG-YT" alt="Most Used Language" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTG-YT&langs_count=10" alt="Most Used Language" >
   </a>
 </p>
 
