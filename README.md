@@ -4,7 +4,7 @@ A secondary schoool student in Hong Kong, "going down the rabbit hole" of the pr
 
 ### My Interests
 - I prefer open-source projects by default;
-- My default programming language I use is Rust;
+- The default programming language I use is Rust;
 - My daily driver is Windows;
 - My secondary daily driver is Fedora Linux;
 - My favourite series of IDEs are JetBrains IDEs;
