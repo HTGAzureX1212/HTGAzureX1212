@@ -8,4 +8,4 @@ A secondary schoool student in Hong Kong, "going down the rabbit hole" of the pr
 - My daily driver is Windows;
 - My secondary daily driver is Fedora Linux;
 - My favourite series of IDEs are JetBrains IDEs;
-- My favourite code editor is Visual Studio Code.
+- My favourite code editor is Neovim.
