@@ -1,6 +1,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=HTG-YT&theme=darcula&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" align="right"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTG-YT&theme=darcula&hide_border=true" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTG-YT&theme=darcula&hide_border=true&hide=python" align="right"/>
 </div>
 
 A secondary schoool student in Hong Kong, "going down the rabbit hole" of the programming world.
