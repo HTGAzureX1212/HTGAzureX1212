@@ -10,5 +10,5 @@ A secondary schoool student in Hong Kong, "going down the rabbit hole" of the pr
 <img src="https://github-readme-stats.vercel.app/api?username=HTG-YT&theme=darcula&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTG-YT&theme=darcula&hide_border=true&hide=python" align="center"/>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img alt="HTG-YT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HTG-YT&theme=darcula"/>
+  <img alt="HTG-YT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HTG-YT&theme=darcula&hide_border=true"/>
 </a>
