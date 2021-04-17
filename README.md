@@ -7,8 +7,9 @@ A secondary schoool student in Hong Kong, "going down the rabbit hole" of the pr
 - My secondary daily driver is Fedora Linux;
 - My favourite series of IDEs are JetBrains IDEs;
 - My favourite code editor is Neovim.
-<img src="https://github-readme-stats.vercel.app/api?username=HTG-YT&theme=darcula&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTG-YT&theme=darcula&hide_border=true&hide=python" align="center"/>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img alt="HTG-YT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HTG-YT&theme=darcula&hide_border=true"/>
-</a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HTG-YT&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HTG-YT&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HTG-YT&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HTG-YT&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HTG-YT&theme=github_dark)
