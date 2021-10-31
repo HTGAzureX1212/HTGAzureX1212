@@ -1,4 +1,4 @@
-A secondary schoool student in Hong Kong, "going down the rabbit hole" of the programming world.
+A secondary schoool student in Hong Kong, "going down the rabbit hole" of the programming world; a casual bus enthusiast 'cause why not?
 
 ### My Interests
 - I prefer open-source projects by default;
