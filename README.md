@@ -4,7 +4,7 @@ A secondary schoool student in Hong Kong, "going down the rabbit hole" of the pr
 - I prefer open-source projects by default;
 - The default programming language I use is Rust;
 - My daily driver is Windows;
-- My secondary daily driver is NixOS Linux;
+- My secondary daily driver is Arch Linux;
 - My favourite series of IDEs are JetBrains IDEs;
 - My favourite code editor is Neovim.
 
