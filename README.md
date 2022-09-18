@@ -8,8 +8,5 @@ A secondary schoool student in Hong Kong, "going down the rabbit hole" of the pr
 - My favourite series of IDEs are JetBrains IDEs;
 - My favourite code editor is Neovim.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HTG-YT&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HTG-YT&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HTG-YT&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HTG-YT&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HTG-YT&theme=github_dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HTG-YT&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Activity Graph](http://activity-graph.herokuapp.com/graph?username=HTG-YT&bg_color=161B22&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
