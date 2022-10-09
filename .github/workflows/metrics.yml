@@ -26,6 +26,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_user: HTG_YT
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os, projects
           plugin_activity: no
           plugin_habits: yes
