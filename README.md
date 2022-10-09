@@ -1,12 +1,47 @@
-A secondary schoool student in Hong Kong, "going down the rabbit hole" of the programming world.
+<div align="center">
+<h1>HTG-YT</h1>
 
-### My Interests
-- I prefer open-source projects by default;
-- The default programming language I use is Rust;
-- My daily driver is Windows;
-- My secondary daily driver is Artix Linux;
-- My favourite series of IDEs are JetBrains IDEs;
-- My favourite code editor is Neovim.
+<blockquote><strong>Hong-konger, Programmer</strong></blockquote>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HTG-YT&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Activity Graph](http://activity-graph.herokuapp.com/graph?username=HTG-YT&bg_color=161B22&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+</div>
+
+## What I Use:
+
+### Frameworks  / Languages / Runtimes
+
+<div align="left">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%7F52FFFF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white"/>
+<img src="https://img.shields.io/badge/powershell-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
+</div>
+
+### Dev Tools
+
+<div align="left">
+<img src="https://img.shields.io/badge/clion-%2338B2AC.svg?&style=for-the-badge&logo=clion&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij%20idea-%2338B2AC.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+### Databases
+
+<div align="left">
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+### Operating Systems
+
+<div align="left">
+<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+
+## Statistics
+
+<img src="/github-metrics.svg" alt="Metrics">
