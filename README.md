@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/powershell-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/astro-%23FF5D01.svg?&style=for-the-badge&logo=astro&logoColor=white"/>
 </div>
 
 ### Dev Tools
