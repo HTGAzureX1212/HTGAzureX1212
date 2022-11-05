@@ -14,7 +14,9 @@ jobs:
           template: classic
           config_timezone: Asia/Hong_Kong
           repositories: 120
+          plugin_activity: no
           plugin_code: yes
+          plugin_habits: yes
           plugin_languages: yes
           plugin_languages_ignored: javascript, html, css, php
           plugin_languages_colors: github
@@ -29,5 +31,3 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_user: HTG_YT
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os, projects
-          plugin_activity: no
-          plugin_habits: yes
