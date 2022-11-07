@@ -28,8 +28,3 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_detail: percentage, lines
           plugin_languages_categories: programming
-          
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_user: HTG_YT
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os, projects
