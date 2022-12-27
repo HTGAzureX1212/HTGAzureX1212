@@ -5,6 +5,8 @@
 
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/408576714243833867)](https://discord.com/users/408576714243833867)
+
 ## What I Use:
 
 ### Frameworks  / Languages / Runtimes
