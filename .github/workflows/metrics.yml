@@ -9,6 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          user: HTG-YT
           token: ${{ secrets.GH_TOKEN }}
 
           template: classic
