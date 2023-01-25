@@ -11,6 +11,8 @@ jobs:
         with:
           output_action: none
 
+          token: ${{ secrets.GH_TOKEN }}
+
           template: classic
           config_timezone: Asia/Hong_Kong
           repositories: 120
