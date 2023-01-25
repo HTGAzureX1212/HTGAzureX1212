@@ -28,11 +28,11 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_detail: percentage, lines
           plugin_languages_categories: programming
       
       - run: |
           set +e
+          pwd
           git checkout metrics-renders
           git config user.name HTG-YT
           git config user.email 39023054+HTG-YT@users.noreply.github.com
