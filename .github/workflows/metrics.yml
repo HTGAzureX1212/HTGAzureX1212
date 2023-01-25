@@ -9,8 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          user: HTG-YT
-          token: ${{ secrets.GH_TOKEN }}
+          output_action: none
 
           template: classic
           config_timezone: Asia/Hong_Kong
@@ -29,3 +28,14 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_detail: percentage, lines
           plugin_languages_categories: programming
+      
+      - uses: lowlighter/metrics@latest
+        run: |
+          set +e
+          git checkout metrics-renders
+          git config user.name HTG-YT
+          git config user.email 39023054+HTG-YT@users.noreply.github.com
+          sudo mv /metrics_renders/* ./
+          git add --all
+          git commit -m "chore: push metrics"
+          git push
