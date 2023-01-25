@@ -29,8 +29,7 @@ jobs:
           plugin_languages_detail: percentage, lines
           plugin_languages_categories: programming
       
-      - uses: lowlighter/metrics@latest
-        run: |
+      - run: |
           set +e
           git checkout metrics-renders
           git config user.name HTG-YT
