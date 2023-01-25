@@ -32,7 +32,7 @@ jobs:
       
       - run: |
           set +e
-          pwd
+          ls -la
           git checkout metrics-renders
           git config user.name HTG-YT
           git config user.email 39023054+HTG-YT@users.noreply.github.com
