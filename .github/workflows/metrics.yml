@@ -40,8 +40,8 @@ jobs:
           set +e
           ls -la
           git checkout metrics-renders
-          git config user.name HTG-YT
-          git config user.email 39023054+HTG-YT@users.noreply.github.com
+          git config user.name ${{ secrets.USERNAME }}
+          git config user.email ${{ secrets.EMAIL_STRING }}@users.noreply.github.com
           sudo mv /metrics_renders/* ./
           git add --all
           git commit -m "chore: push metrics"
