@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5401 Commits
+                            5402 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,7 +214,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.2mb of code in 10194 edited files across 4375 commits</small>
+                <small>estimation from 14.2mb of code in 10195 edited files across 4376 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2517,7 +2517,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 9 Feb 2023, 20:33:04
+                            On 10 Feb 2023, 17:34:18
                         </div>
                     </section>
                 </div>
@@ -2533,8 +2533,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">05dd4685</span>
-                            <span class="code">rust-utilities/Cargo.lock</span>
+                            <span class="code">54882de0</span>
+                            <span class="code">discord-frontend/Cargo.lock</span>
                             <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
@@ -2542,14 +2542,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -740,9 +740,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[[package]]<br /></span><span class="token prefix unchanged">·</span><span class="token line">name = "serde_json"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">version = "1.0.92"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version = "1.0.93"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">source = "registry+https://github.com/rust-lang/crates.io-index"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">checksum = "7434af0dc1cbd59268aa98b4c22c131c0584d2232f6fb166efb993e2832e896a"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">checksum = "cad406b69c91885b5107daf2c29572f6c8cdb3c66826821e286c533490c0bc76"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">dependencies = [<br /></span><span class="token prefix unchanged">·</span><span class="token line">"itoa",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"ryu",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2044,9 +2044,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[[package]]<br /></span><span class="token prefix unchanged">·</span><span class="token line">name = "tokio-util"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">version = "0.7.4"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version = "0.7.5"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">source = "registry+https://github.com/rust-lang/crates.io-index"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">checksum = "0bb2e075f03b3d66d8d8785356224ba688d2906a371015e225beeb65ca92c740"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">checksum = "7e267c18a719545b481171952a79f8c25c80361463ba44bc7fa9eba7c742ef4f"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">dependencies = [<br /></span><span class="token prefix unchanged">·</span><span class="token line">"bytes",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"futures-core",</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Feb 2023, 02:24:28 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Feb 2023, 03:16:13 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
