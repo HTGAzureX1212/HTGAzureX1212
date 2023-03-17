@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6284 Commits
+                            6287 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            510 issue comments
+                            511 issue comments
                         </div>
                     </section>
                     <section>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 17.9mb of code in 11206 edited files across 5231 commits</small>
+                <small>estimation from 17.9mb of code in 11210 edited files across 5233 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.526594703858" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="396.526594703858" y="0" width="25.144132063063502" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="421.6707267669216" y="0" width="13.894488855219278" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="435.56521562214084" y="0" width="8.864231085228596" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="444.42944670736944" y="0" width="6.236451621975644" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="450.66589832934505" y="0" width="4.572223409036102" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.23812173838115" y="0" width="3.056223263028075" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.2943450014092" y="0" width="1.7056549985907832" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.52782909733793" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="396.52782909733793" y="0" width="25.14364307476154" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="421.67147217209947" y="0" width="13.894218643366472" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.5656908154659" y="0" width="8.864058698872379" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="444.42974951433825" y="0" width="6.236330339129959" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="450.66607985346826" y="0" width="4.572134491122555" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.2382143445908" y="0" width="3.056163827394343" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.29437817198516" y="0" width="1.705621828014865" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -286,12 +286,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 130 commits)</small>
+                    <small class="h-details">(computed from last 129 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 43.3 characters per line of code written</li>
+                        <li>Has approximately 42.3 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -357,13 +357,13 @@
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 8px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 6px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 8px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 4px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -407,8 +407,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 22px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 26px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -428,38 +428,38 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">52</span>
+                                <span class="value">49</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">3</span>
-                                <div class="bar" style="height: 2.8846153846153846px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.061224489795918px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">35</span>
-                                <div class="bar" style="height: 33.65384615384615px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">23</span>
-                                <div class="bar" style="height: 22.115384615384613px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 23.46938775510204px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">5</span>
-                                <div class="bar" style="height: 4.807692307692308px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 5.1020408163265305px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 6.122448979591836px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">8</span>
-                                <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.16326530612245px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -516,7 +516,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~11.49
+                            Average per day at ~11.50
                         </div>
                     </section>
                 </div>
@@ -2481,10 +2481,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.274336283185841 0,2.274336283185841 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.274336283185841 1.7,3.274336283185841 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.56637168141593)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.433628318584071 0,2.433628318584071 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.433628318584071 1.7,3.433628318584071 z"/>
+                            <g transform="translate(-6.8, 8.513274336283185)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4867256637168142 0,2.4867256637168142 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4867256637168142 1.7,3.4867256637168142 z"/>
                             </g>
                         </g>
                     </g>
@@ -2529,7 +2529,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">cfe193ce</span>
-                            <span class="code">localization/hartex-localization-macros/Cargo.toml</span>
+                            <span class="code">discord-frontend/hartex-discord-commands-macros/Cargo.toml</span>
                             <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
@@ -2537,14 +2537,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,8 +11,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[dependencies]<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">proc-macro2 = "1.0.51"<br /></span><span class="token prefix deleted">-</span><span class="token line">quote = "1.0.23"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">proc-macro2 = "1.0.52"<br /></span><span class="token prefix inserted">+</span><span class="token line">quote = "1.0.26"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">syn = "1.0.109"<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[lib]</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,8 +11,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[dependencies]<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">proc-macro2 = "1.0.51"<br /></span><span class="token prefix deleted">-</span><span class="token line">quote = "1.0.23"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">proc-macro2 = "1.0.52"<br /></span><span class="token prefix inserted">+</span><span class="token line">quote = "1.0.26"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">syn = { version = "1.0.109", features = ["extra-traits", "full"] }<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[features]</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2023, 21:26:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Mar 2023, 22:19:09 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
