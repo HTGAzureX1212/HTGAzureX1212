@@ -22,20 +22,6 @@ jobs:
           template: classic
           config_timezone: Asia/Hong_Kong
           repositories: 120
-          
-          plugin_code: yes
-        
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: "full-year"
-          
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_categories: programming
-      
       - run: |
           set +e
           ls -la
