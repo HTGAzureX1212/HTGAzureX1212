@@ -3,7 +3,7 @@
 
 <blockquote><strong>Hong-konger, Programmer</strong></blockquote>
 
-[![committers.top badge](https://user-badge.committers.top/hong_kong/HTG-YT.svg)](https://user-badge.committers.top/hong_kong/HTG-YT)
+[![committers.top badge](https://user-badge.committers.top/hong_kong/HTGAzureX1212.svg)](https://user-badge.committers.top/hong_kong/HTGAzureX1212)
 
 </div>
 
