@@ -7,10 +7,6 @@
 
 </div>
 
-## Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/408576714243833867)](https://discord.com/users/408576714243833867)
-
 ## GitHub Statistics
 
 <img width="50%" align="left" src="/github-metrics.svg" alt="Metrics">
