@@ -1,9 +1,7 @@
 <div align="center">
 <h1>HTGAzureX1212</h1>
 
-<blockquote><strong>Hong-konger, Programmer, Undegraduate Student at The Hong Kong University of Science and Technology</strong></blockquote>
-
-[![committers.top badge](https://user-badge.committers.top/hong_kong/HTGAzureX1212.svg)](https://user-badge.committers.top/hong_kong/HTGAzureX1212)
+<blockquote><strong>Hong-konger, Programmer, Undergraduate Student at The Hong Kong University of Science and Technology</strong></blockquote>
 
 </div>
 
