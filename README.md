@@ -1,5 +1,5 @@
 <div align="center">
-<h1>HTGAzureX1212</h1>
+<h1>Harry Wu</h1>
 
 <blockquote><strong>Hong-konger, Programmer, Undergraduate Student at The Hong Kong University of Science and Technology</strong></blockquote>
 
